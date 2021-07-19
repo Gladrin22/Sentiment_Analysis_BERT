@@ -8,22 +8,26 @@ Bidirectional Encoder Representations from Transformers.BERT is the state of the
 # Packages :
 ```bash
 pip install transformers 
-...
+```
 ```bash
 pip install torch
-...
+```
 ```bash
-pip install requests
-...
+pip install requests 
+```
 ```bash
 pip install numpy
-...
+```
 ```bash
-pip install pandas
-...
+pip install pandas 
+```
 ```bash
-pip install BeautifulSoup
-...
+pip install re   
+```
+```bash
+pip install BeautifulSoup  #for web scraping
+```
+
 
 # Datasets:
 ---- > we can collect data either by web scraping or we can also use free datasets which are available online .
