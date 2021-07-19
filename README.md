@@ -6,22 +6,22 @@ Analyzing the users emotions using pre-trained neural network model [BERT] Bidir
 Bidirectional Encoder Representations from Transformers.BERT is the state of the art language model for NLP . This is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. Yes , its a pre-trained neural network devleoped in 2018 by Jacob Devlin and his colleagues from Google.
 
 # Packages :
-... bash
+```bash
 pip install transformers 
 ...
-... bash
+```bash
 pip install torch
 ...
-... bash
+```bash
 pip install requests
 ...
-... bash
+```bash
 pip install numpy
 ...
-... bash
+```bash
 pip install pandas
 ...
-... bash
+```bash
 pip install BeautifulSoup
 ...
 
