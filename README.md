@@ -30,4 +30,4 @@ pip install BeautifulSoup  #for web scraping
 
 
 # Datasets:
----- > we can collect data either by web scraping or we can also use free datasets which are available online .
+"we can collect the data either by web scraping or we can also use freely available datasets online." 
