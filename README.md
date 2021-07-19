@@ -6,4 +6,5 @@ Analyzing the users emotions using pre-trained neural network model [BERT] Bidir
 Bidirectional Encoder Representations from Transformers.BERT is the state of the art language model for NLP . This is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. Yes , its a pre-trained neural network devleoped in 2018 by Jacob Devlin and his colleagues from Google.
 
 
-# Datasets ---- > we can collect data either by web scraping or we can also use free datasets which are available online .
+# Datasets
+---- > we can collect data either by web scraping or we can also use free datasets which are available online .
