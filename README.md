@@ -38,4 +38,7 @@ pip install BeautifulSoup  #for web scraping
 "we can collect the data either by web scraping or we can also use freely available datasets online." 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 
+
+##Thankyou 
+@nicknochnack
