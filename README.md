@@ -3,7 +3,9 @@ Analyzing and understanding  the users or customers emotions using pre-trained m
 
 
 # What is BERT ?
-Bidirectional Encoder Representations from Transformers.BERT is the state of the art language model for NLP . This is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. Yes , its a pre-trained ! model devleoped in 2018 by Jacob Devlin and his colleagues from Google.
+Bidirectional Encoder Representations from Transformers.BERT is the state of the art language model for NLP . This is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. Yes , its a pre-trained ! model devleoped in 2018 by Jacob Devlin and his colleagues from Google. For , more details check out the reference below . 
+Ref. [I'm an inline-style link with title](https://arxiv.org/pdf/1810.04805.pdf "BERT Model")
+
 
 # What is a transformer ?
 The Transformer is the first transduction model relying entirely on self-attention to compute representations of its input and output without using sequence-aligned RNNs or convolution.
