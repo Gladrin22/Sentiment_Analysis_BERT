@@ -1,8 +1,8 @@
 # Sentiment_Analysis_using_BERT
 Analyzing and understanding  the users or customers emotions using pre-trained model [BERT] Bidirectional Encoder Representations from Transformers. Rating the dataset(Reviews , feedack etc ...) between the scale of (1-5) . In this (1) stands for the worst and (5) stands for the best . 
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+
 
 
 
@@ -45,7 +45,8 @@ pip install BeautifulSoup  #for web scraping
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) 
 
-## Thankyou
-@nicknochnack
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 
 
